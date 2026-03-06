@@ -31,6 +31,7 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 <td valign="top" width="50%">
 
 #### **Languages**
+
 <p>
   <img src="https://cdn.simpleicons.org/python/white" width="40" height="40" alt="Python" title="Python" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/javascript/white" width="40" height="40" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
@@ -39,6 +40,7 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 </p>
 
 #### **Frameworks**
+
 <p>
   <img src="https://cdn.simpleicons.org/nodedotjs/white" width="40" height="40" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/flask/white" width="40" height="40" alt="Flask" title="Flask" />&nbsp;&nbsp;
@@ -46,6 +48,7 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 </p>
 
 #### **Supporting Stack**
+
 <p>
   <img src="https://cdn.simpleicons.org/huggingface/white" width="40" height="40" alt="Hugging Face" title="Hugging Face" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="GitHub" title="GitHub" />&nbsp;&nbsp;
@@ -53,6 +56,7 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 </p>
 
 #### **Utilities**
+
 <p>
   <img src="https://cdn.simpleicons.org/notion/white" width="40" height="40" alt="Notion" title="Notion" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/spotify/white" width="40" height="40" alt="Spotify" title="Spotify" />&nbsp;&nbsp;
@@ -64,6 +68,7 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 <td valign="top" width="50%">
 
 #### **Frontend**
+
 <p>
   <img src="https://cdn.simpleicons.org/tailwindcss/white" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/css/white" width="40" height="40" alt="CSS3" title="CSS3" />&nbsp;&nbsp;
@@ -72,21 +77,23 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 </p>
 
 #### **Machine Learning / Python Stack**
+
 <p>
   <img src="https://cdn.simpleicons.org/scikitlearn/white" width="40" height="40" alt="Scikit-learn" title="Scikit-learn" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/tensorflow/white" width="40" height="40" alt="TensorFlow" title="TensorFlow" />
 </p>
 
 #### **Design Stack**
+
 <p>
   <img src="https://cdn.simpleicons.org/figma/white" width="40" height="40" alt="Figma" title="Figma" />&nbsp;&nbsp;
   <img src="./assets/icons/photoshop-white.svg" width="40" height="40" alt="Adobe Photoshop" title="Adobe Photoshop" />&nbsp;&nbsp;
   <img src="./assets/icons/premierepro-white.svg" width="40" height="40" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" />&nbsp;&nbsp;
   <img src="./assets/icons/aftereffects-white.svg" width="40" height="40" alt="Adobe After Effects" title="Adobe After Effects" />&nbsp;&nbsp;
-  <img src="./assets/icons/canva-white.svg" width="40" height="40" alt="Canva" title="Canva" />
 </p>
 
 #### **Learning**
+
 <p>
   <img src="https://cdn.simpleicons.org/docker/white" width="40" height="40" alt="Docker" title="Docker" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mongodb/white" width="40" height="40" alt="MongoDB" title="MongoDB" />
