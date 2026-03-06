@@ -76,7 +76,7 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
   <img src="https://cdn.simpleicons.org/streamlit/white" width="40" height="40" alt="Streamlit" title="Streamlit" />
 </p>
 
-#### **Machine Learning / Python Stack**
+#### **ML / Python Stack**
 
 <p>
   <img src="https://cdn.simpleicons.org/scikitlearn/white" width="40" height="40" alt="Scikit-learn" title="Scikit-learn" />&nbsp;&nbsp;
