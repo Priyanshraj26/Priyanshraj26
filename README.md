@@ -89,7 +89,7 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
   <img src="https://cdn.simpleicons.org/figma/white" width="40" height="40" alt="Figma" title="Figma" />&nbsp;&nbsp;
   <img src="./assets/icons/photoshop-white.svg" width="40" height="40" alt="Adobe Photoshop" title="Adobe Photoshop" />&nbsp;&nbsp;
   <img src="./assets/icons/premierepro-white.svg" width="40" height="40" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" />&nbsp;&nbsp;
-  <img src="./assets/icons/aftereffects-white.svg" width="40" height="40" alt="Adobe After Effects" title="Adobe After Effects" />&nbsp;&nbsp;
+  <img src="./assets/icons/aftereffects-white.svg" width="40" height="40" alt="Adobe After Effects" title="Adobe After Effects" />&nbsp;
 </p>
 
 #### **Learning**
