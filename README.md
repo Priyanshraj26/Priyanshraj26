@@ -141,10 +141,10 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 <!-- contact-designer.svg  → Design Portfolio -->
 
 <p align="center">
-  <a href="https://linkedin.com/in/priyanshrajgupta"><img src="./assets/icons/linkedin-white.svg" width="45" height="45" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:26priyanshraj@gmail.com"><img src="./assets/icons/google-white.svg" width="45" height="45" alt="Email" title="Email" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://priyanshrajgupta.xyz/"><img src="./assets/icons/chrome-white.svg" width="45" height="45" alt="Portfolio" title="Portfolio" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://designer.priyanshrajgupta.xyz/"><img src="./assets/icons/behance-white.svg" width="45" height="45" alt="Designer Portfolio" title="Designer Portfolio" /></a>
+  <a href="https://linkedin.com/in/priyanshrajgupta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:26priyanshraj@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://priyanshrajgupta.xyz/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://designer.priyanshrajgupta.xyz/"><img src="https://img.shields.io/badge/Designer_Portfolio-FF61F6?style=for-the-badge" alt="Designer Portfolio" /></a>
 </p>
 
 ---
