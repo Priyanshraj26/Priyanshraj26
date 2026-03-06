@@ -71,10 +71,10 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 
 <p>
   <img src="https://cdn.simpleicons.org/figma/white" width="40" height="40" alt="Figma" title="Figma" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Adobe Photoshop" title="Adobe Photoshop" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" width="40" height="40" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-plain.svg" width="40" height="40" alt="Adobe After Effects" title="Adobe After Effects" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-plain.svg" width="40" height="40" alt="Canva" title="Canva" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/white" width="40" height="40" alt="Adobe Photoshop" title="Adobe Photoshop" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/adobepremierepro/white" width="40" height="40" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/adobeaftereffects/white" width="40" height="40" alt="Adobe After Effects" title="Adobe After Effects" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/canva/white" width="40" height="40" alt="Canva" title="Canva" />
 </p>
 
 ### **Utilities**
@@ -83,7 +83,7 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
   <img src="https://cdn.simpleicons.org/notion/white" width="40" height="40" alt="Notion" title="Notion" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/spotify/white" width="40" height="40" alt="Spotify" title="Spotify" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/pinterest/white" width="40" height="40" alt="Pinterest" title="Pinterest" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-plain.svg" width="40" height="40" alt="VS Code" title="VS Code" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/white" width="40" height="40" alt="VS Code" title="VS Code" />
 </p>
 
 ### **Learning**
@@ -141,10 +141,10 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 <!-- contact-designer.svg  → Design Portfolio -->
 
 <p align="center">
-  <a href="https://linkedin.com/in/priyanshrajgupta"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" width="45" height="45" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:26priyanshraj@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-plain.svg" width="45" height="45" alt="Email" title="Email" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://priyanshrajgupta.xyz/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-plain.svg" width="45" height="45" alt="Portfolio" title="Portfolio" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://designer.priyanshrajgupta.xyz/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-plain.svg" width="45" height="45" alt="Designer Portfolio" title="Designer Portfolio" /></a>
+  <a href="https://linkedin.com/in/priyanshrajgupta"><img src="./assets/icons/contact-linkedin.svg" width="45" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:26priyanshraj@gmail.com"><img src="./assets/icons/contact-email.svg" width="45" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://priyanshrajgupta.xyz/"><img src="./assets/icons/contact-portfolio.svg" width="45" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://designer.priyanshrajgupta.xyz/"><img src="./assets/icons/contact-designer.svg" width="45" alt="Designer Portfolio" /></a>
 </p>
 
 ---
