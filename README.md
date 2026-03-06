@@ -10,7 +10,7 @@
 
 </div>
 
-I'm a Computer Science undergrad who loves building things at the intersection of web development, machine learning, and design. Whether it's training a CNN for emotion classification or crafting responsive UIs with React and Tailwind, I enjoy turning complex ideas into polished, working products. Currently exploring Agentic AI and generative workflows; always looking for the next problem worth solving.
+I'm a Computer Science undergrad who loves building things at the intersection of web development, machine learning, and design. Whether it's training a Neural Network or crafting responsive UIs with graphic designing, I enjoy turning complex ideas into polished, working products. Currently exploring Agentic AI and generative workflows; always looking for the next problem worth solving.
 
 <br clear="right"/>
 
@@ -89,7 +89,7 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
   <img src="https://cdn.simpleicons.org/figma/white" width="40" height="40" alt="Figma" title="Figma" />&nbsp;&nbsp;
   <img src="./assets/icons/photoshop-white.svg" width="40" height="40" alt="Adobe Photoshop" title="Adobe Photoshop" />&nbsp;&nbsp;
   <img src="./assets/icons/premierepro-white.svg" width="40" height="40" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" />&nbsp;&nbsp;
-  <img src="./assets/icons/aftereffects-white.svg" width="40" height="40" alt="Adobe After Effects" title="Adobe After Effects" />&nbsp;
+  <img src="./assets/icons/aftereffects-white.svg" width="40" height="40" alt="Adobe After Effects" title="Adobe After Effects" /
 </p>
 
 #### **Learning**
