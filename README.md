@@ -6,11 +6,9 @@
 
 # Hi there, I'm Priyansh Raj
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+ML+Enthusiast+%7C+UI%2FUX+Designer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=500&lines=Developer+%7C+ML+Enthusiast+%7C+Designer" alt="Typing SVG" />
 
 </div>
-
-<img align="right" src="./assets/hero-illustration.png" width="260" alt="Developer illustration" />
 
 I'm a Computer Science undergrad who loves building things at the intersection of web development, machine learning, and design. Whether it's training a CNN for emotion classification or crafting responsive UIs with React and Tailwind, I enjoy turning complex ideas into polished, working products. Currently exploring Agentic AI and generative workflows — always looking for the next problem worth solving.
 
@@ -18,7 +16,7 @@ I'm a Computer Science undergrad who loves building things at the intersection o
 
 ---
 
-## 🚀 What I'm Currently Building
+## What I'm Currently Building
 
 <!-- REPLACE: Update this with your current project description and repo link -->
 
@@ -28,7 +26,7 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 
 ---
 
-## 🧰 My Toolbox
+## My Toolbox
 
 <!-- Add/remove icons in assets/icons/ and update references here -->
 
@@ -81,7 +79,7 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 
 ---
 
-## ⭐ Projects I'm Proud Of
+## Projects I'm Proud Of
 
 <!-- REPLACE: Change REPO_NAME_1, REPO_NAME_2, REPO_NAME_3 to your actual repository names -->
 
@@ -102,17 +100,16 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 
 ---
 
-## 📝 Latest Blog Posts
+## Latest Blog Posts
 
 <!-- Update this list manually when you publish new articles -->
 
-- 📄 [Title of Blog Post 1](<!-- REPLACE: BLOG_URL_1 -->) — *Short description of the post*
-- 📄 [Title of Blog Post 2](<!-- REPLACE: BLOG_URL_2 -->) — *Short description of the post*
-- 📄 [Title of Blog Post 3](<!-- REPLACE: BLOG_URL_3 -->) — *Short description of the post*
+- [Messy Life, Messy Work, Messy Notes? One Solution → Notion](https://www.linkedin.com/pulse/messy-life-work-notes-one-solution-notion-priyansh-raj-gupta-lug7f)
+- [Git: A Developer's Ctrl + Z](https://www.linkedin.com/pulse/git-developers-ctrl-z-priyansh-raj-gupta-hnklc)
 
 ---
 
-## 📊 LeetCode Stats
+## LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/priyanshrajgupta?theme=light&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
@@ -126,7 +123,7 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
 <!-- contact-linkedin.svg  → LinkedIn       -->
 <!-- contact-email.svg     → Email          -->
@@ -146,4 +143,4 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
   <img src="https://komarev.com/ghpvc/?username=Priyanshraj26&style=flat-square&color=grey" alt="Profile Views" />
 </p>
 
-<p align="center"><i>Built with ☕ and curiosity.</i></p>
+<p align="center"><i>Let's design and develop together <3</i></p>
