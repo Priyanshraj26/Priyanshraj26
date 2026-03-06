@@ -101,10 +101,10 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 
 <p align="center">
   <a href="https://github.com/Priyanshraj26/IMPACT--Interview-Monitoring">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshraj26&repo=IMPACT--Interview-Monitoring&theme=graywhite" alt="Project 1" />
+    <img src="./assets/project1.png" alt="Project 1" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Priyanshraj26/SpotifyScaler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshraj26&repo=SpotifyScaler&theme=graywhite" alt="Project 3" />
+    <img src="./assets/project3.png" alt="Project 3" />
   </a>
 </p>
 
@@ -122,13 +122,7 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 ## LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/priyanshrajgupta?theme=light&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/priyanshrajgupta">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
-  </a>
+  <img src="https://leetcard.jacoblin.cool/priyanshrajgupta?theme=light&font=Noto%20Sans" alt="LeetCode Stats" />
 </p>
 
 <br clear="right"/>
@@ -143,7 +137,7 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 <p align="center">
   <a href="https://linkedin.com/in/priyanshrajgupta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="mailto:26priyanshraj@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge" alt="Email" /></a>&nbsp;&nbsp;
-  <a href="https://priyanshrajgupta.xyz/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://priyanshrajgupta.xyz/"><img src="https://img.shields.io/badge/Portfolio-5410a7?style=for-the-badge" alt="Portfolio" /></a>&nbsp;&nbsp;
   <a href="https://designer.priyanshrajgupta.xyz/"><img src="https://img.shields.io/badge/Designer_Portfolio-FF61F6?style=for-the-badge" alt="Designer Portfolio" /></a>
 </p>
 
