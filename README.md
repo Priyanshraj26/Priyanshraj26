@@ -26,54 +26,73 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 
 ## My Toolbox
 
-<!-- Add/remove icons in assets/icons/ and update references here -->
+### **Languages**
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-<h3 align="center">Design</h3>
-
-<p align="center">
-  <img src="./assets/icons/icon-figma.svg" width="40" alt="Figma" />&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/icon-photoshop.svg" width="40" alt="Photoshop" />&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/icon-premiere-pro.svg" width="40" alt="Premiere Pro" />&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/icon-canva.svg" width="40" alt="Canva" />&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/icon-excalidraw.svg" width="40" alt="Excalidraw" />
-  <br>
-  <sub>Figma</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Photoshop</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Premiere Pro</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Canva</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Excalidraw</sub>
+<p>
+  <img src="https://cdn.simpleicons.org/python/white" width="40" height="40" alt="Python" title="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/white" width="40" height="40" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus/white" width="40" height="40" alt="C++" title="C++" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/white" width="40" height="40" alt="SQL" title="SQL" />
 </p>
 
-</td>
-<td valign="top" width="50%">
+### **Frontend**
 
-<h3 align="center">Development</h3>
-
-<p align="center">
-  <img src="./assets/icons/icon-python.svg" width="40" alt="Python" />&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/icon-cpp.svg" width="40" alt="C++" />&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/icon-react.svg" width="40" alt="React" />&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/icon-nodejs.svg" width="40" alt="Node.js" />&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/icon-flask.svg" width="40" alt="Flask" />&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/icon-mongodb.svg" width="40" alt="MongoDB" />&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/icon-tailwind.svg" width="40" alt="Tailwind CSS" />
-  <br>
-  <sub>Python</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>C++</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>React</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Node.js</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Flask</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>MongoDB</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Tailwind</sub>
+<p>
+  <img src="https://cdn.simpleicons.org/tailwindcss/white" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css3/white" width="40" height="40" alt="CSS3" title="CSS3" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/white" width="40" height="40" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/streamlit/white" width="40" height="40" alt="Streamlit" title="Streamlit" />
 </p>
 
-</td>
-</tr>
-</table>
+### **Frameworks**
+
+<p>
+  <img src="https://cdn.simpleicons.org/nodedotjs/white" width="40" height="40" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/flask/white" width="40" height="40" alt="Flask" title="Flask" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/white" width="40" height="40" alt="React.js" title="React.js" />
+</p>
+
+### **Machine Learning / Python Stack**
+
+<p>
+  <img src="https://cdn.simpleicons.org/scikitlearn/white" width="40" height="40" alt="Scikit-learn" title="Scikit-learn" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/white" width="40" height="40" alt="TensorFlow" title="TensorFlow" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/librosa/white" width="40" height="40" alt="librosa" title="librosa" />
+</p>
+
+### **Supporting Stack**
+
+<p>
+  <img src="https://cdn.simpleicons.org/huggingface/white" width="40" height="40" alt="Hugging Face" title="Hugging Face" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="GitHub" title="GitHub" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/firebase/white" width="40" height="40" alt="Firebase" title="Firebase" />
+</p>
+
+### **Design Stack**
+
+<p>
+  <img src="https://cdn.simpleicons.org/figma/white" width="40" height="40" alt="Figma" title="Figma" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/adobephotoshop/white" width="40" height="40" alt="Adobe Photoshop" title="Adobe Photoshop" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/adobepremierepro/white" width="40" height="40" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/adobeaftereffects/white" width="40" height="40" alt="Adobe After Effects" title="Adobe After Effects" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/canva/white" width="40" height="40" alt="Canva" title="Canva" />
+</p>
+
+### **Utilities**
+
+<p>
+  <img src="https://cdn.simpleicons.org/notion/white" width="40" height="40" alt="Notion" title="Notion" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/spotify/white" width="40" height="40" alt="Spotify" title="Spotify" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pinterest/white" width="40" height="40" alt="Pinterest" title="Pinterest" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode/white" width="40" height="40" alt="VS Code" title="VS Code" />
+</p>
+
+### **Learning**
+
+<p>
+  <img src="https://cdn.simpleicons.org/docker/white" width="40" height="40" alt="Docker" title="Docker" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/white" width="40" height="40" alt="MongoDB" title="MongoDB" />
+</p>
 
 <br clear="right"/>
 
