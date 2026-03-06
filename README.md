@@ -39,7 +39,7 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 
 <p>
   <img src="https://cdn.simpleicons.org/tailwindcss/white" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css3/white" width="40" height="40" alt="CSS3" title="CSS3" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css/white" width="40" height="40" alt="CSS3" title="CSS3" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/html5/white" width="40" height="40" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/streamlit/white" width="40" height="40" alt="Streamlit" title="Streamlit" />
 </p>
@@ -57,7 +57,6 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 <p>
   <img src="https://cdn.simpleicons.org/scikitlearn/white" width="40" height="40" alt="Scikit-learn" title="Scikit-learn" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/tensorflow/white" width="40" height="40" alt="TensorFlow" title="TensorFlow" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/librosa/white" width="40" height="40" alt="librosa" title="librosa" />
 </p>
 
 ### **Supporting Stack**
