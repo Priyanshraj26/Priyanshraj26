@@ -26,8 +26,11 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 
 ## My Toolbox
 
-### **Languages**
+<table>
+<tr>
+<td valign="top" width="50%">
 
+#### **Languages**
 <p>
   <img src="https://cdn.simpleicons.org/python/white" width="40" height="40" alt="Python" title="Python" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/javascript/white" width="40" height="40" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
@@ -35,8 +38,32 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
   <img src="https://cdn.simpleicons.org/mysql/white" width="40" height="40" alt="SQL" title="SQL" />
 </p>
 
-### **Frontend**
+#### **Frameworks**
+<p>
+  <img src="https://cdn.simpleicons.org/nodedotjs/white" width="40" height="40" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/flask/white" width="40" height="40" alt="Flask" title="Flask" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/white" width="40" height="40" alt="React.js" title="React.js" />
+</p>
 
+#### **Supporting Stack**
+<p>
+  <img src="https://cdn.simpleicons.org/huggingface/white" width="40" height="40" alt="Hugging Face" title="Hugging Face" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="GitHub" title="GitHub" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/firebase/white" width="40" height="40" alt="Firebase" title="Firebase" />
+</p>
+
+#### **Utilities**
+<p>
+  <img src="https://cdn.simpleicons.org/notion/white" width="40" height="40" alt="Notion" title="Notion" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/spotify/white" width="40" height="40" alt="Spotify" title="Spotify" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pinterest/white" width="40" height="40" alt="Pinterest" title="Pinterest" />&nbsp;&nbsp;
+  <img src="./assets/icons/vscode-white.svg" width="40" height="40" alt="VS Code" title="VS Code" />
+</p>
+
+</td>
+<td valign="top" width="50%">
+
+#### **Frontend**
 <p>
   <img src="https://cdn.simpleicons.org/tailwindcss/white" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/css/white" width="40" height="40" alt="CSS3" title="CSS3" />&nbsp;&nbsp;
@@ -44,31 +71,13 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
   <img src="https://cdn.simpleicons.org/streamlit/white" width="40" height="40" alt="Streamlit" title="Streamlit" />
 </p>
 
-### **Frameworks**
-
-<p>
-  <img src="https://cdn.simpleicons.org/nodedotjs/white" width="40" height="40" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/flask/white" width="40" height="40" alt="Flask" title="Flask" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/react/white" width="40" height="40" alt="React.js" title="React.js" />
-</p>
-
-### **Machine Learning / Python Stack**
-
+#### **Machine Learning / Python Stack**
 <p>
   <img src="https://cdn.simpleicons.org/scikitlearn/white" width="40" height="40" alt="Scikit-learn" title="Scikit-learn" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow/white" width="40" height="40" alt="TensorFlow" title="TensorFlow" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/white" width="40" height="40" alt="TensorFlow" title="TensorFlow" />
 </p>
 
-### **Supporting Stack**
-
-<p>
-  <img src="https://cdn.simpleicons.org/huggingface/white" width="40" height="40" alt="Hugging Face" title="Hugging Face" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="GitHub" title="GitHub" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/firebase/white" width="40" height="40" alt="Firebase" title="Firebase" />
-</p>
-
-### **Design Stack**
-
+#### **Design Stack**
 <p>
   <img src="https://cdn.simpleicons.org/figma/white" width="40" height="40" alt="Figma" title="Figma" />&nbsp;&nbsp;
   <img src="./assets/icons/photoshop-white.svg" width="40" height="40" alt="Adobe Photoshop" title="Adobe Photoshop" />&nbsp;&nbsp;
@@ -77,21 +86,15 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
   <img src="./assets/icons/canva-white.svg" width="40" height="40" alt="Canva" title="Canva" />
 </p>
 
-### **Utilities**
-
-<p>
-  <img src="https://cdn.simpleicons.org/notion/white" width="40" height="40" alt="Notion" title="Notion" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/spotify/white" width="40" height="40" alt="Spotify" title="Spotify" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pinterest/white" width="40" height="40" alt="Pinterest" title="Pinterest" />&nbsp;&nbsp;
-  <img src="./assets/icons/vscode-white.svg" width="40" height="40" alt="VS Code" title="VS Code" />
-</p>
-
-### **Learning**
-
+#### **Learning**
 <p>
   <img src="https://cdn.simpleicons.org/docker/white" width="40" height="40" alt="Docker" title="Docker" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mongodb/white" width="40" height="40" alt="MongoDB" title="MongoDB" />
 </p>
+
+</td>
+</tr>
+</table>
 
 <br clear="right"/>
 
@@ -101,10 +104,10 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 
 <p align="center">
   <a href="https://github.com/Priyanshraj26/IMPACT--Interview-Monitoring">
-    <img src="./assets/project1.png" alt="Project 1" />
+    <img src="./assets/project1.png" width="400" alt="Project 1" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Priyanshraj26/SpotifyScaler">
-    <img src="./assets/project3.png" alt="Project 3" />
+    <img src="./assets/project3.png" width="400" alt="Project 3" />
   </a>
 </p>
 
