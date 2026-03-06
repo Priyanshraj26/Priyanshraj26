@@ -26,9 +26,9 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 
 ## My Toolbox
 
-<table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border: none;">
 
 #### **Languages**
 
@@ -65,7 +65,7 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 </p>
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border: none;">
 
 #### **Frontend**
 
