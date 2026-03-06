@@ -4,17 +4,15 @@
 
 <div align="center">
 
-# Hi there, I'm Priyansh Raj
+# Hi there, I'm Priyansh Raj !!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=500&lines=Developer+%7C+ML+Enthusiast+%7C+Designer" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&pause=1000&color=AB68F7&background=72FF4E00&center=true&vCenter=true&width=435&lines=Developer+%7C+ML+Engineer+%7C+Designer)](https://git.io/typing-svg)
 
 </div>
 
-I'm a Computer Science undergrad who loves building things at the intersection of web development, machine learning, and design. Whether it's training a CNN for emotion classification or crafting responsive UIs with React and Tailwind, I enjoy turning complex ideas into polished, working products. Currently exploring Agentic AI and generative workflows — always looking for the next problem worth solving.
+I'm a Computer Science undergrad who loves building things at the intersection of web development, machine learning, and design. Whether it's training a CNN for emotion classification or crafting responsive UIs with React and Tailwind, I enjoy turning complex ideas into polished, working products. Currently exploring Agentic AI and generative workflows; always looking for the next problem worth solving.
 
 <br clear="right"/>
-
----
 
 ## What I'm Currently Building
 
@@ -24,7 +22,7 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 
 [![Repo](https://img.shields.io/badge/GitHub-AI--Thumbnail--Agent-181717?style=for-the-badge&logo=github)](<!-- REPLACE: YOUR_REPO_URL_HERE -->)
 
----
+<br clear="right"/>
 
 ## My Toolbox
 
@@ -77,28 +75,22 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 </tr>
 </table>
 
----
+<br clear="right"/>
 
 ## Projects I'm Proud Of
 
 <!-- REPLACE: Change REPO_NAME_1, REPO_NAME_2, REPO_NAME_3 to your actual repository names -->
 
 <p align="center">
-  <a href="https://github.com/Priyanshraj26/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshraj26&repo=REPO_NAME_1&theme=graywhite" alt="Project 1" />
+  <a href="https://github.com/Priyanshraj26/IMPACT--Interview-Monitoring">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshraj26&repo=IMPACT--Interview-Monitoring&theme=graywhite" alt="Project 1" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/Priyanshraj26/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshraj26&repo=REPO_NAME_2&theme=graywhite" alt="Project 2" />
+  <a href="https://github.com/Priyanshraj26/SpotifyScaler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshraj26&repo=SpotifyScaler&theme=graywhite" alt="Project 3" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Priyanshraj26/REPO_NAME_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshraj26&repo=REPO_NAME_3&theme=graywhite" alt="Project 3" />
-  </a>
-</p>
-
----
+<br clear="right"/>
 
 ## Latest Blog Posts
 
@@ -107,7 +99,7 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
 - [Messy Life, Messy Work, Messy Notes? One Solution → Notion](https://www.linkedin.com/pulse/messy-life-work-notes-one-solution-notion-priyansh-raj-gupta-lug7f)
 - [Git: A Developer's Ctrl + Z](https://www.linkedin.com/pulse/git-developers-ctrl-z-priyansh-raj-gupta-hnklc)
 
----
+<br clear="right"/>
 
 ## LeetCode Stats
 
@@ -121,7 +113,7 @@ Working on an AI-powered thumbnail generation system that leverages Google Gemin
   </a>
 </p>
 
----
+<br clear="right"/>
 
 ## Get in Touch
 
